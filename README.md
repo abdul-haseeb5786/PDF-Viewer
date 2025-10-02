@@ -10,6 +10,6 @@ Follow these steps to install and test the app on your Android phone:
 2. Search for **Install unknown apps**.  
 3. From the list, select **Drive** and allow installation from unknown sources.  
 4. Click on the APK link below from your mobile:  
-   👉 [Download APK](https://drive.google.com/file/d/19y9wiJijkMMmTvAojm0qbRSOF42DnhGv/view?usp=drivesdk )  
+   👉 [Download APK](https://drive.google.com/file/d/1u_UZ9dWdhTrLlxYwZSfmNY1r12CWssox/view?usp=drive_link)  
 5. Tap **Install** when prompted.  
 6. Once installed, open the app and enjoy 🎉.  
