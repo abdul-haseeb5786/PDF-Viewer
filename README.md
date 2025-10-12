@@ -1,6 +1,6 @@
-# Flashlight App  
+# PDF Viewer  
 
-A simple Flutter flashlight app — my first project built while learning Flutter.  
+A simplePDF Viewer app — my second project built while learning Flutter.  
 
 ## How to Test the App  
 
